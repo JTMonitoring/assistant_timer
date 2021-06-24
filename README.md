@@ -10,13 +10,21 @@ remind me to wash the dishes in 10 minutes
 
 string one
 set a timer for x y
+
 x = any number
+
 y = [seconds, minutes, hours]
+
 string two
+
 remind me to x in y z
+
 x = reminder name, can be any amount of words.
+
 y = any number
+
 z = [seconds, minutes, hours]
+
 
 installation:
 ```
