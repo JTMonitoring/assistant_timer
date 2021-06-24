@@ -3,16 +3,16 @@ Timer for virtual assistants that can accept english strings
 
 time.txt is where the english command will be stored, the timer can accept two english strings:
 
-examples:
+examples
 set a timer for 5 seconds
 or
 remind me to wash the dishes in 10 minutes
 
-string one:
+string one
 set a timer for x y
 x = any number
 y = [seconds, minutes, hours]
-string two:
+string two
 remind me to x in y z
 x = reminder name, can be any amount of words.
 y = any number
