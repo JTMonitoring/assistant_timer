@@ -8,14 +8,14 @@ set a timer for 5 seconds
 or
 remind me to wash the dishes in 10 minutes
 
-string one
+string one:
 set a timer for x y
 
 x = any number
 
 y = [seconds, minutes, hours]
 
-string two
+string two:
 
 remind me to x in y z
 
